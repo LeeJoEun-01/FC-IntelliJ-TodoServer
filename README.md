@@ -1,5 +1,5 @@
 # FC-IntelliJ-TodoServer
-(java와 gradle의 버전이 호환되어야 한다!)
+(java와 gradle의 버전이 호환되어야 한다! / 이 프로젝트에서는 밑의 버전 사용)
 - java version: jdk-14.0.2
 - gradle version: gradle-6.4.1-bin
 
